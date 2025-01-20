@@ -25,7 +25,7 @@
   <a href="https://medium.com/rohitsingh290320052@gmail.com" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="Medium Profile" height="30" width="40" />
   </a>
-  <a href="https://www.leetcode.com/ytrohit2004@gmail.com" target="_blank">
+  <a href="https://www.leetcode.com/ytrohit2004" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode Profile" height="30" width="40" />
   </a>
 </p>
