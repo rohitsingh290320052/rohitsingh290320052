@@ -10,11 +10,11 @@
 </p>
 
 <ul>
-  <h4>🌱 I’m currently learning <strong>DevOps, Flutter, Cloud Platforms</strong></h4>
-  <li>📝 I regularly write articles on <a href="https://www.linkedin.com/in/rohit-singh-11aa85250/recent-activity/articles/">LinkedIn</a></li>
-  <li>💬 Ask me about <strong>Kotlin, Flutter, Android</strong></li>
-  <li>📫 How to reach me <a href="mailto:rohitsingh290320052@gmail.com">rohitsingh290320052@gmail.com</a></li>
-  <li>⚡ Fun fact: <strong>I think I didn't belong to this world 😅</strong></li>
+  <h3>🌱 I’m currently learning <strong>DevOps, Flutter, Cloud Platforms</strong></h3>
+  <h3>📝 I regularly write articles on <a href="https://www.linkedin.com/in/rohit-singh-11aa85250/recent-activity/articles/">LinkedIn</a></h3>
+  <h3>💬 Ask me about <strong>Kotlin, Flutter, Android</strong></h3>
+  <h3>📫 How to reach me <a href="mailto:rohitsingh290320052@gmail.com">rohitsingh290320052@gmail.com</a></h3>
+  <h3>⚡ Fun fact: <strong>I have a great sense of humor 😅</strong></h3>
 </ul>
 
 <h3 align="left">Connect with me:</h3>
