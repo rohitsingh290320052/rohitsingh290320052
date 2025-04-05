@@ -1,8 +1,5 @@
 ![Header](./github-header.png)
 
-<h1 align="center">Hi 👋, I'm Rohit Singh</h1>
-<h3 align="center">An Enthusiastic Android/Flutter Developer from India</h3>
-
 <div align="center">
   <img alt="routine" src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif">
 </div>
