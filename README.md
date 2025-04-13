@@ -21,7 +21,7 @@
   <a href="https://linkedin.com/in/rohit-singh-11aa85250" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn Profile" height="30" width="40" />
   </a>
-  <a href="https://medium.com/rohitsingh290320052@gmail.com" target="_blank">
+  <a href="https://medium.com/@rohitsingh290320052" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="Medium Profile" height="30" width="40" />
   </a>
   <a href="https://www.leetcode.com/ytrohit2004" target="_blank">
