@@ -6,7 +6,7 @@
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=rohitsingh290320052&label=Profile%20views&color=0e75b6&style=flat" alt="rohitsingh290320052" />
-</p>
+</p> 
 
 <ul>
   <h3>🌱 I’m currently learning <strong>DevOps, Flutter, Cloud Platforms</strong></h3>
