@@ -29,6 +29,13 @@
   </a>
 </p>
 
+## 📊 Profile Summary  
+![Profile Summary Cards](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rohitsingh290320052&theme=aura)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=rohitsingh290320052&theme=aura)                ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rohitsingh290320052&theme=aura&utcOffset=8)
+
+
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://developer.android.com" target="_blank" rel="noreferrer">
